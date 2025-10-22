@@ -5,7 +5,7 @@
 
 
 はじめまして [[Phrases#^896dc8]]
-ナンダ5パルです。[[Explanations#^672605]]
+ナンダ5パルです。[[Explanations#^695944]]
 インドじんです。// the country I am from
 どうぞよろしくおねがいします。[[Phrases#^490a4b]]
 
