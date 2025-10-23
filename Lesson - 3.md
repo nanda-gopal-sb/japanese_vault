@@ -31,4 +31,9 @@ This section allows the person to answer questions about
    A:[Intended Place] です。[[こそあど|What is どこ]]
    
 5. [Place/Country/Town]からですか？/ おくには[Country]ですか？
-   A (Negation):いいえ、[Country] じゃないです。
+   A (Negation):いいえ、[Country] じゃないです。[[Concepts#Negation of です。|More info]]
+
+#### Can do 
+1. Self Introduction 
+2. Learn how to answer basic questions. 
+3. Negation of normal responses.

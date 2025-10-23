@@ -14,4 +14,11 @@
 ## Usage of も
 
  も is a particle that means “also” or “the same as.”  It allows the speaker to agree to the question, as well as bring attention to the fact that her answer is also the same. [[Examples#Example usage of も|An Example]]
- 
+
+## Negation of です。
+
+N です -----> N じゃないです
+A few important things to note : 
+1. **CANNOT** use じゃないです on its own, must be preceded by a noun.
+2. Can we said with いいえ。
+

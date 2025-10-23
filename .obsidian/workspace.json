@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "179a60565e1f9343",
+        "id": "db9a660481b0f55f",
         "type": "tabs",
         "children": [
           {
-            "id": "d4a9d40c843a77d3",
+            "id": "dc01494b4c641b6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Grammer/Counting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Counting"
             }
           }
         ]
@@ -165,19 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "d4a9d40c843a77d3",
+  "active": "dc01494b4c641b6f",
   "lastOpenFiles": [
-    "Japanese_Study.md",
-    "Lesson - 4.md",
-    "Grammer/Concepts.md",
+    "Grammer/Counting.md",
     "Grammer/こそあど.md",
-    "Grammer/Explanations.md",
-    "Grammer/Examples.md",
-    "Vocabulary/Adjectives.md",
     "Vocabulary/Phrases.md",
     "Vocabulary/Proper_Nouns.md",
-    "Vocabulary/Common_Words.md",
+    "Vocabulary/Useful_Kanji.md",
+    "Grammer/Concepts.md",
     "Lesson - 3.md",
+    "Vocabulary/Common_Words.md",
+    "attatchments/Pasted image 20251023105130.png",
+    "Vocabulary/Family Related.md",
+    "Lesson - 4.md",
+    "attatchments",
+    "Grammer/Examples.md",
+    "Grammer/Explanations.md",
+    "Japanese_Study.md",
+    "Vocabulary/Adjectives.md",
     "Dialogues/Conversations.md",
     "Vocabulary",
     "Japan_Life",
