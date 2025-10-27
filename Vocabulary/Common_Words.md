@@ -1,7 +1,7 @@
 1. なまえ - Name. 
    Polite version - おなまえ ^e86722
 2. ごしゅっしん - Native place. (ご is added for more politeness) ^e986b1
-3. くに - Country
+3. くに - Country [[Useful_Kanji#^c58ba6|Kanji]]
    Polite version - おくに ^47ef31
 4. おなじ - Same
 5. いくつ - How old? 
@@ -13,4 +13,5 @@
 11. てんき --> weather
 12. たべもの   -> Food
 13. だいじょうぶです -> its okay
-14. 
+14. きょう　-> Today
+15. 

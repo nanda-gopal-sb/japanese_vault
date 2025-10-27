@@ -26,5 +26,13 @@ A: はい、おねがいします。\   いえ、けっこうです。
 Q; なに 、のみますか？---> What do you wanna drink
 A: じゃあ、コーヒー、おねがいします。--> Ill take the coffe then
 
+## Asking about Breakfast
+
+Q: あさごはんいつもなにをたべますか？
+A: パンとたまごをたべます。
+	ぎゅうにゅうをのみます。
+A2: あさごはんはあまりたべません。
+
+
 
 

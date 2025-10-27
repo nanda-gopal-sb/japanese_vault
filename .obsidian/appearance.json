@@ -5,5 +5,5 @@
   "interfaceFontFamily": "Liberation Sans",
   "textFontFamily": "Noto Serif",
   "theme": "obsidian",
-  "nativeMenus": true
+  "nativeMenus": false
 }

@@ -10,5 +10,10 @@
 2. よろしく - Looking forward to getting to know you. (Fun phrase really, one of my fave) ^907642
 3. あれ？- Used to express surprise
 4. それから - And then. Used to add onto the sentence. 
-5. 
+
+## Lesson - 5
+
+1. いただきます -> The expression used before eating. 
+2. じゃあ　-> Used to add "Ah then" expression to the sentence
+3. 
 
