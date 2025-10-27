@@ -14,4 +14,5 @@
 12. たべもの   -> Food
 13. だいじょうぶです -> its okay
 14. きょう　-> Today
-15. 
+15. ください -> Please give me
+16. 

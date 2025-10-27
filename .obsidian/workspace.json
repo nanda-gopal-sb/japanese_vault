@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4bbe1c1fd24e019d",
+        "id": "44033546dbf7832d",
         "type": "tabs",
         "children": [
           {
-            "id": "9ecf43c6bab01583",
+            "id": "bf7089440daa965c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,20 +22,49 @@
             }
           },
           {
-            "id": "eb9259288cd3213a",
+            "id": "010c897c9494f97c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Useful_Kanji.md",
+                "file": "Vocabulary/Food_Drinks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful_Kanji"
+              "title": "Food_Drinks"
+            }
+          },
+          {
+            "id": "03bc16d0cba463b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Adjectives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adjectives"
+            }
+          },
+          {
+            "id": "af2ea555a504f06e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Phrases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phrases"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,23 +225,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ecf43c6bab01583",
+  "active": "010c897c9494f97c",
   "lastOpenFiles": [
-    "Lessons/Lesson - 5.md",
     "Lessons/Lesson - 6.md",
+    "Vocabulary/Phrases.md",
+    "Vocabulary/Adjectives.md",
+    "Lessons/Lesson - 5.md",
+    "Vocabulary/Useful_Kanji.md",
+    "Vocabulary/Common_Words.md",
+    "Vocabulary/Family Related.md",
+    "Vocabulary/Food_Drinks.md",
+    "Lessons/Lesson - 4.md",
     "Lessons/Lesson - 3.md",
     "Japanese_Study.md",
     "misc",
     "Lessons",
-    "Vocabulary/Useful_Kanji.md",
     "Vocabulary/Question_Words.md",
     "Vocabulary/Proper_Nouns.md",
-    "Vocabulary/Phrases.md",
-    "Vocabulary/Food_Drinks.md",
-    "Vocabulary/Family Related.md",
     "misc/Roadmap.md",
-    "Lessons/Lesson - 4.md",
-    "Vocabulary/Common_Words.md",
     "misc/Funs.md",
     "misc/General_Doubts.md",
     "Grammer/Counting.md",
@@ -223,7 +253,6 @@
     "attachments",
     "Grammer/こそあど.md",
     "Grammer/に.md",
-    "Vocabulary/Adjectives.md",
     "Grammer/Explanations.md",
     "Temp.md",
     "attachments/Pasted image 20251025225358.png",

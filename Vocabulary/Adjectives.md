@@ -1,0 +1,1 @@
+1. おいしいです。--> Means tasty/Delicious ^7470c5

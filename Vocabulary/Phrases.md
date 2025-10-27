@@ -15,5 +15,12 @@
 
 1. いただきます -> The expression used before eating. 
 2. じゃあ　-> Used to add "Ah then" expression to the sentence
-3. 
+
+
+## Lesson - 6
+
+1. いらっしゃいませ。おうかがいします。---> Used to express "hello and welcome to the shop"
+2. なにになさいますか？ー＞ what would you like to drink?
+3. こちらでおめしあがりですか？-> Take out or dine here? ^5db101
+4. 
 
