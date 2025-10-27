@@ -10,7 +10,5 @@ Things left to do:
 - [ ] Date
 - [ ] Period of time
 - [ ] Examples
+- [ ] Introducing a picture of my friends
 
-
-
-[[Japanese_Study|Link]]

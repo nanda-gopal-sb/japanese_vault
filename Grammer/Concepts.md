@@ -17,8 +17,16 @@
 
 ## Negation of です。
 
+^172fc3
+
 N です -----> N じゃないです
 A few important things to note : 
 1. **CANNOT** use じゃないです on its own, must be preceded by a noun.
 2. Can we said with いいえ。
 
+
+
+
+## ですか？
+
+This expression is used to ask a question. Add ですか？ after an interrogative expression and speak with a rising intonation. 

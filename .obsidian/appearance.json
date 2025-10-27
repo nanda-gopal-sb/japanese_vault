@@ -1,7 +1,9 @@
 {
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "GitHub Theme",
   "accentColor": "#5cb2f5",
   "monospaceFontFamily": "Hack Nerd Font Mono",
-  "interfaceFontFamily": "Hack Nerd Font Mono",
-  "textFontFamily": "Hack Nerd Font Mono"
+  "interfaceFontFamily": "Liberation Sans",
+  "textFontFamily": "Noto Serif",
+  "theme": "obsidian",
+  "nativeMenus": true
 }

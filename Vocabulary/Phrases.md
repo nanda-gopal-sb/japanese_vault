@@ -10,4 +10,5 @@
 2. よろしく - Looking forward to getting to know you. (Fun phrase really, one of my fave) ^907642
 3. あれ？- Used to express surprise
 4. それから - And then. Used to add onto the sentence. 
+5. 
 

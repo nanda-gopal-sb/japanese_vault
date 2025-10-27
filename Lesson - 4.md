@@ -17,18 +17,26 @@ To express the place of stay of various family members.
 
 ### Where do You Live and How Old
 
-ミロです。フィリピンからきました。よろしくおねがいします。[[Phrases#^907642]]
-しんいち。なんさいですか？[[Common_Words#^795e61]]
-Q: どこにすんでいますか？[[Common_Words#^90f131]]
-A: あかばね です。
+ミロです。フィリピンからきました。よろしくおねがいします。[[Phrases#^907642|Nice to Meet you]]
 
-Q. ごかぞくはどこにすんでいますか[[こそあど]]
-A. ごかぞくは フィリピンにすんでいますか。
+Q: どこにすんでいますか？[[Common_Words#^90f131|すんでいます]]
+A: あかばね です。--> Just replacing the question marker どこ with the answer.
 
-[[Counting#Age Counter]]
-[[Common_Words#^90f131]]
+Q. ごかぞくはどこにすんでいますか                 [[こそあど]] 
+A. ごかぞくは フィリピンにすんでいますか。[[に#^9649a4|に]]
+
+Q.  しんいち。なんさいですか [[Common_Words#^795e61|How old?]]  [[Concepts#ですか？| Question Marker]]
+A. 4さいです。[[Counting#Age Counter|Age Counter]]
 
 
-[[Concepts]]
-[[Adjectives]]
+## Who is That
 
+Look at a photograph and answer questions such as who is that.
+これ、だれですか？[[こそあど]] [[Question_Words#^5cd1c8|だれ]]
+
+
+## Can do
+
+1. Introduce Family Members
+2. Ask questions about a picture
+3. Answer questions about a picture
