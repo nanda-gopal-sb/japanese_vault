@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e440cf726edcdfb",
+        "id": "1940f0d85195e828",
         "type": "tabs",
         "children": [
           {
-            "id": "54177ef52e7702b6",
+            "id": "eae99bafb5c0edba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lesson - 4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lesson - 4"
             }
           }
         ]
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese Study.md",
+                "file": "Lesson - 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Japanese Study"
+              "title": "Outgoing links from Lesson - 4"
             }
           },
           {
@@ -138,16 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese Study.md",
+                "file": "Lesson - 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Japanese Study"
+              "title": "Outline of Lesson - 4"
+            }
+          },
+          {
+            "id": "b93a3b0c0295c494",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,30 +177,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54177ef52e7702b6",
+  "active": "eae99bafb5c0edba",
   "lastOpenFiles": [
-    "Temp.md",
-    "attachments/Pasted image 20251025225358.png",
-    "attachments",
+    "Vocabulary/Proper_Nouns.md",
+    "Lesson - 3.md",
+    "Vocabulary/Phrases.md",
     "Vocabulary/Common_Words.md",
     "Lesson - 4.md",
+    "Roadmap.md",
+    "Vocabulary/Family Related.md",
+    "Vocabulary/Adjectives.md",
     "Grammer/こそあど.md",
-    "Grammer/Concepts.md",
-    "Vocabulary/Phrases.md",
     "Grammer/Explanations.md",
     "Grammer/Examples.md",
     "Grammer/Counting.md",
-    "Vocabulary/Proper_Nouns.md",
-    "Japanese_Study.md",
-    "Vocabulary/Family Related.md",
-    "Vocabulary/Useful_Kanji.md",
-    "Lesson - 3.md",
+    "Grammer/Concepts.md",
+    "Temp.md",
+    "attachments/Pasted image 20251025225358.png",
     "attatchments/Pasted image 20251023105130.png",
+    "attachments",
+    "Japanese_Study.md",
+    "Vocabulary/Useful_Kanji.md",
     "attatchments",
-    "Vocabulary/Adjectives.md",
     "Dialogues/Conversations.md",
     "Vocabulary",
     "Japan_Life",

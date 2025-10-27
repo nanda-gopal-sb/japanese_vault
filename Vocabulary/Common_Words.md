@@ -8,3 +8,4 @@
 6. なんさい - How old?  ^795e61
 7. すんでいます - Currently Live in. Not your hometown but where do you stay. ^90f131
 8. うちの - Our -- うちのかぞく(Our family)
+9. Lmaooo

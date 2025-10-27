@@ -1,4 +1,7 @@
 {
   "cssTheme": "Tokyo Night",
-  "accentColor": "#5cb2f5"
+  "accentColor": "#5cb2f5",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "interfaceFontFamily": "Hack Nerd Font Mono",
+  "textFontFamily": "Hack Nerd Font Mono"
 }
