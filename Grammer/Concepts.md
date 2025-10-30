@@ -24,9 +24,15 @@ A few important things to note :
 1. **CANNOT** use じゃないです on its own, must be preceded by a noun.
 2. Can we said with いいえ。
 
-
-
-
 ## ですか？
 
 This expression is used to ask a question. Add ですか？ after an interrogative expression and speak with a rising intonation. 
+
+
+
+## います vs あります
+
+^edd588
+These two words are both indicators of "does it exist". The key difference is howerver, います is only used for living things (People, pets, animals) and あります is ONLY used for dead/non living things. 
+
+This disticition is very important

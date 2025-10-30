@@ -60,3 +60,41 @@ This is primarily used to count the floors of the house. Unlike Indian/UK system
 
 Question: なんかい?
 
+
+## Telling the Time
+
+I find the Japanese timing system, quite intuitive. There is 11 new vocabulary and most of it is not different from the base counting system.
+
+
+| Time   | 日本語                                             |
+| ------ | ----------------------------------------------- |
+| 01:00  | いちじ                                             |
+| 02:00  | にじ                                              |
+| 03:00  | さんじ                                             |
+| 04:00  | <mark style="background: #FFB8EBA6;">よじ</mark>  |
+| 05:00  | ごじ                                              |
+| 06:00  | ろくじ                                             |
+| 07:00  | <mark style="background: #FFB8EBA6;">しちじ</mark> |
+| 08:00  | はちじ                                             |
+| 09:00  | <mark style="background: #FFB8EBA6;">くじ</mark>  |
+| 10:00  | じゅうじ                                            |
+| 11:00  | じゅういちじ                                          |
+| 12:00  | じゅうにちじ                                          |
+| 1 min  | いちじ                                             |
+| 02 min | にじ                                              |
+| 03 min | さんじ                                             |
+| 04 min | よじ                                              |
+| 05 min | ごじ                                              |
+| 06 min | ろくじ                                             |
+| 07 min | しちじ                                             |
+| 08 min | はちじ                                             |
+| 09 min | くじ                                              |
+| 10 min | じゅうじ                                            |
+| 11 min | じゅういちじ                                          |
+| 12 min | じゅうにちじ                                          |
+12:59 -> じゅうにちじごじゅっきゅうふん
+
+
+
+
+

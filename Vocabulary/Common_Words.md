@@ -25,4 +25,11 @@
 23. うち -> Home
 24. でも -> But
 25. だんせい -> Male
-26. 
+26. わかりました -> I understood
+27. うえ -> above
+28. なか-> inside ^0f39e3
+29. よく -> Beside
+30. した -> underneath
+31. のり-> glue
+32. ひきだし -> Drawer ^b2c201
+33. いま    -> Now ^0d03f5

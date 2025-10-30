@@ -28,11 +28,11 @@
 27. おてら -> temple
 28. がっこう -> school
 29. こうえん -> park
-30. こういしつ -> changing room
+30. こういしつ -> changing room ^0b190b
 31. しょくどう -> mess
 32. きゅうとうしつ -> tea making room
 33. かいぎしつ -> meeting room
 34. きつえんじょ -> smoking
-35. そうこ -> storage
+35. そうこ -> storage ^c2c63d
 36. 
  
