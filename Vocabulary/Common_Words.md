@@ -15,4 +15,14 @@
 13. だいじょうぶです -> its okay
 14. きょう　-> Today
 15. ください -> Please give me
-16. 
+16. あと --> And then
+17. （お）はし -> Chopsticks ^bb1ab7
+18. とりざら -> Plate ^5f4967
+19. にします -> to decide on something
+20. いえ -> house
+21. みんなで -> With everyone
+22. とても -> Very ^36e99e
+23. うち -> Home
+24. でも -> But
+25. だんせい -> Male
+26. 

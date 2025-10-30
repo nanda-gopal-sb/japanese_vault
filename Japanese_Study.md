@@ -14,4 +14,4 @@ My name - ナンダ5パル　
 4. [[Lesson - 4]]
 5. [[Lesson - 5]]
 6. [[Lesson - 6]]
-
+7. [[Lesson - 7]]

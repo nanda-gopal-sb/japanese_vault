@@ -32,7 +32,7 @@ A. 4さいです。[[Counting#Age Counter|Age Counter]]
 ## Who is That
 
 Look at a photograph and answer questions such as who is that.
-これ、だれですか？[[こそあど]] [[Question_Words#^5cd1c8|だれ]]
+これ、だれですか？[[こそあど]] [[Phrases#^5cd1c8|だれ]]
 
 
 ## Can do
