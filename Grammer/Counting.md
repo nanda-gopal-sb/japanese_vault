@@ -80,21 +80,56 @@ I find the Japanese timing system, quite intuitive. There is 11 new vocabulary a
 | 10:00  | じゅうじ                                            |
 | 11:00  | じゅういちじ                                          |
 | 12:00  | じゅうにちじ                                          |
-| 1 min  | いちじ                                             |
-| 02 min | にじ                                              |
-| 03 min | さんじ                                             |
-| 04 min | よじ                                              |
-| 05 min | ごじ                                              |
-| 06 min | ろくじ                                             |
-| 07 min | しちじ                                             |
-| 08 min | はちじ                                             |
-| 09 min | くじ                                              |
-| 10 min | じゅうじ                                            |
-| 11 min | じゅういちじ                                          |
-| 12 min | じゅうにちじ                                          |
+| 1 min  | いっぷん                                            |
+| 02 min | にふん                                             |
+| 03 min | さんぷん                                            |
+| 04 min | よんふん                                            |
+| 05 min | ごふん                                             |
+| 06 min | ろっぷん                                            |
+| 07 min | ななふん                                            |
+| 08 min | はちふん                                            |
+| 09 min | きゅうふん                                           |
+
 12:59 -> じゅうにちじごじゅっきゅうふん
+		12 oclock + 5x10 + 6 Minutes
+5:40 ->  ごじよんじゅぷん
 
 
+## Date And Month
 
+### Months
+1. いちがつ
+2. にがつ
+3. さんがつ
+4. しがつ
+5. ごがつ
+6. ろくがつ
+7. しちがつ
+8. はちがつ
+9. くがつ
+10. じゅうがつぃ
+11. じゅういちがつ
+12. じゅうにがつ
 
+### Dates
+1. ついたち
+2. ふつか
+3. みっか
+4. よっか
+5. いつか
+6. むいか
+7. なのか
+8. ようか
+9. ここのか
+10. とうか
+11. じゅういちにち
+12. じょうににち
+
+The rest of the words are regular, other than 4
+
+14 : じょうよっか
+20 : はつか
+
+Question: きょうはなんがつなんにちですか？
+Answer: [Month] followed by [Date] です。
 
