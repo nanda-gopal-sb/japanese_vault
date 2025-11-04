@@ -63,9 +63,6 @@ Question: なんかい?
 
 ## Telling the Time
 
-I find the Japanese timing system, quite intuitive. There is 11 new vocabulary and most of it is not different from the base counting system.
-
-
 | Time   | 日本語                                             |
 | ------ | ----------------------------------------------- |
 | 01:00  | いちじ                                             |
@@ -93,7 +90,6 @@ I find the Japanese timing system, quite intuitive. There is 11 new vocabulary a
 12:59 -> じゅうにちじごじゅっきゅうふん
 		12 oclock + 5x10 + 6 Minutes
 5:40 ->  ごじよんじゅぷん
-
 
 ## Date And Month
 
@@ -128,8 +124,22 @@ I find the Japanese timing system, quite intuitive. There is 11 new vocabulary a
 The rest of the words are regular, other than 4
 
 14 : じょうよっか
+
+And 20
 20 : はつか
 
-Question: きょうはなんがつなんにちですか？
+Question: きょうはなんがつなんにちですか？-> What month and day is it today?
 Answer: [Month] followed by [Date] です。
 
+
+## Days of Week
+
+1. げつようび -> Monday
+2. かよび -> Tuesday
+3. すいようび -> Wednesday
+4. むくようび -> Thursday
+5. きんようび -> Friday
+6. どようび -> Saturday
+7. にちようび -> Sunday
+なんようびですか？-> What day of the week is it today?
+## Next one 

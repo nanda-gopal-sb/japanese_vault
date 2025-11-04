@@ -36,4 +36,24 @@
 34. でんしゃ -> Train
 35. くるま -> Car
 36. あるいて -> Walking
-37. 
+37. まいにち
+38. だいたい
+39. します　＊＊＊＊＊ very very important -> todo
+40. おそいですね - 
+41. はやいですね
+42. はじめに
+43. ちこく -> Late
+44. おんがく -> Music
+45. えいが -> Movie
+46. どくしょ -> ほんをよみます
+47. かいもの
+48. りょうり
+49. どんな -> What type of
+50. すいえい -> Swimming
+51. たっきゅう -> Table Tennis
+52. そうじ　-> Clean House
+53. せんたく -> Do the laundry
+54. さんぽ -> Walk
+55. ゆっくりします -> Relax
+
+
