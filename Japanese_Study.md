@@ -17,3 +17,12 @@ My name - ナンダ5パル　
 7. [[Lesson - 7]]
 8. [[Lesson - 8]]
 9. [[Lesson - 9]]
+
+
+Thing left to do tmmr : 
+- [ ] Revise all counters 
+- [ ] Revise all adjectives
+- [ ] Lesson 14 
+- [ ] Lesson 15 
+- [ ] General revision 
+- [ ] Number system Revision 

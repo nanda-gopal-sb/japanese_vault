@@ -30,7 +30,10 @@
 8. はいってください  -> Please come in
 9. いいですね -> thats nice, isnt it?
 10. ふーん -> Indicates the speaker is listening
-11. 
+11. えらいですね -> Thats admirable
+12. まだわかりません -> I dont know yet
+13. のってください -> Please take
+14. 
 
 
 

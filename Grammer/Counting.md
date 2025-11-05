@@ -142,4 +142,21 @@ Answer: [Month] followed by [Date] です。
 6. どようび -> Saturday
 7. にちようび -> Sunday
 なんようびですか？-> What day of the week is it today?
-## Next one 
+## The alternate counting system
+
+1. いっこ
+2. にこ
+3. さんこ
+4. よんこ
+5. ここ
+6. ろっこ
+7. ななこ
+8. はちこ
+9. きょうこ
+10. じゅうこ
+Question :  なんこ
+
+
+
+
+
