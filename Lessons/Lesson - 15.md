@@ -23,13 +23,7 @@ More expressive ways to describe an item
 
 このバッグかわいい！Intonation upwards
 
-## Ask for [One] Cake and [Two] おしぼり
 
-[Item] ふたつ(The number) と[Item-2]ひとつ、おねがいします。/ ください
-
-
-チョコレートケーキ と チーズケーキ 、2こ ずつおねがいします。
-ずつ-> used to indicate [number] of each.
 
 
 
