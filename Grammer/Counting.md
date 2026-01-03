@@ -144,6 +144,8 @@ Answer: [Month] followed by [Date] です。
 なんようびですか？-> What day of the week is it today?
 ## The alternate counting system
 
+This can be used sometimes, besides the general counter. If unsure use the general counter
+
 1. いっこ
 2. にこ
 3. さんこ
@@ -154,6 +156,8 @@ Answer: [Month] followed by [Date] です。
 8. はちこ
 9. きょうこ
 10. じゅうこ
+
+
 Question :  なんこ
 
 

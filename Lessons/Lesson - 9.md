@@ -28,15 +28,15 @@ You may also ask an question like so : だいがく<mark style="background: #ADC
 ひるやすみはいちじからにじまでです
 ## Days of the Week
 
-[[Counting#Days of Week]]
+[[Counting#Days of Week|Days of the week]]
 なんようびですか？
 
-しけんはなんようびですか？
+しけんはなんようびですか？-> What day was the exam?
 
 ## Deciding on what day to go
 
 
-Example convesation : 
+Example conversation : 
 
 Q. プールいついきますか？-> When can we go to the pool
 A. わたしはにちようび<mark style="background: #ADCCFFA6;">が</mark>いいです-> Sunday is fine for me. 
@@ -46,9 +46,9 @@ A2 : すみません。どようびはちょっと。。。。。。-> Be polite
 B2 : じゃあ、きんようびは？-> What about Tuesday
 A2: はいだいじょうぶです。
 
-If no agreement on the date can be reached : じゃあ、またこんどいきましょう。
+If <mark style="background: #BBFABBA6;">no</mark> agreement on the date can be reached : じゃあ、またこんどいきましょう。
 
-If agreement is reached : じゃあ、 [Day] <mark style="background: #ADCCFFA6;">に</mark>しましょう。に here cuz of the verb します
+If agreement is reached : じゃあ、 [Day] <mark style="background: #ADCCFFA6;">に</mark>しましょう。に here because of the verb します
 
 
 
