@@ -10,3 +10,7 @@
 10. あさって -> Day after
 11. こんしゅう -> This week
 12. らいしゅう -> Next week
+13. ごろ -> Around that time ^75d05c
+14. せんしゅう -> Past week
+15. せんげつ -> Past month
+16. きょねん -> Past year

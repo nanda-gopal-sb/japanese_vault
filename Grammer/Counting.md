@@ -22,10 +22,6 @@ Question - なんさいですか？/ いくつですか。
 20 - [はたち]
 24 - にじゅよんさい
 60 - ろくじゅっさい
-
-
-
-
 ## Counting Counter
 This is used to count objects in general, and can be used almost everywhere
 Question: ==いくつですか？==
@@ -164,3 +160,35 @@ Question :  なんこ
 
 
 
+
+## Months
+Yup there is a counter for months too. 
+
+1. いかげつ
+2. にかげつ
+3. さんかげつ
+4. よんかげつ
+5. ごかげつ
+6. ろっかげつ
+7. ななかげつ
+8. はちかげつ
+9. きゅぅかげつ
+10. じゅぅかげつ
+11. じゅういっかげつ
+12. じゅうにかげつ
+
+One Year- いちねん
+
+
+## Year
+One for years too
+1. いちねん
+2. にねん
+3. さんねん
+4. よねん
+5. ごねん
+6. ろくねん
+7. ななねん
+8. はちねん
+9. きゅうねん
+10. じゅうねん

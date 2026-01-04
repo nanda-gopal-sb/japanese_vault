@@ -1,4 +1,4 @@
-
+	
 | Adjective        | Meaning     | Past Affirmative | Past Non Affirmative | Present Non Affirmative |
 | :--------------- | :---------- | :--------------- | :------------------- | :---------------------- |
 | おいしい             | Interesting | おもしろかたです         | おもしろくなかたです           | おもしくないです                |

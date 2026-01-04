@@ -6,8 +6,8 @@ Q. いまなんじですか？-> What time is it now? [[Common_Words#^0d03f5|い
 
 ## When did you wake up/Sleep?
 
-Q. なんじ<mark style="background: #FFB8EBA6;">に</mark>おきますか？
-A. ごじにおきます。/ ごじ<mark style="background: #ADCCFFA6;">ごろ</mark>おきます
+Q. なんじ<mark style="background: #FFB8EBA6;">に</mark>おきますか？[[Common_Words#^53bc98|おきます]]
+A. ごじにおきます。/ ごじ<mark style="background: #ADCCFFA6;">ごろ</mark>おきます[[Time Related#^75d05c|ごろ]]
 
 Q. なんじにねますか？
 A. はちじ<mark style="background: #ADCCFFA6;">に</mark>ねます。/ ごじごろねます。
@@ -40,6 +40,7 @@ Example conversation :
 
 Q. プールいついきますか？-> When can we go to the pool
 A. わたしはにちようび<mark style="background: #ADCCFFA6;">が</mark>いいです-> Sunday is fine for me. 
+
 Note the use of が as the subject marker here, not に because いいです is an adjective, and like が すき it is used here.
 
 A2 : すみません。どようびはちょっと。。。。。。-> Be polite and say no
