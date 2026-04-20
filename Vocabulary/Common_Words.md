@@ -76,4 +76,9 @@
 74. それに -> Besides that
 75. おみやげ
 76. おきます -> Wake up ^53bc98
+77. かいわ -> Conversation
+78. えらびましょうー＞Choose
+79. おもいますか　ー＞to think
+80. イラスト -> Illustration
+81. 
 
