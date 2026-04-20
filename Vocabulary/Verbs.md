@@ -13,7 +13,7 @@
 10. のります-> To get on the transport
 11. おります -> To get off the transport
 12. おりかいます -> To get off and enter into another transport
-13. かえるます -> Go back home
+13. かえります -> Go back home
 
 
 ## Forms of Verbs
