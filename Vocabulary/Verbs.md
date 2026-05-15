@@ -14,6 +14,10 @@
 11. おります -> To get off the transport
 12. おりかいます -> To get off and enter into another transport
 13. かえります -> Go back home
+14. さします -> To Hold up something (mostly used with umbrella)
+15. あけます -> To open something (doors, windows, etc)
+16. つけます -> To Switch On/Off 
+17. **おぼえます**
 
 
 ## Forms of Verbs

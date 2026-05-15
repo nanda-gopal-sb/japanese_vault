@@ -80,5 +80,21 @@
 78. えらびましょうー＞Choose
 79. おもいますか　ー＞to think
 80. イラスト -> Illustration
-81. 
+81. じしょ -> dictionary
+82. ことし -> this year
+83. ざっし -> Magazine/Journal
+84. と け い -> watch
+85. およぎま -> To swim
+86. しつもん -> Question
+87. ことば -> Word
+88. こまりま -> Troubled
+89. おぼえました -> Memoriezed
+90. さとう -> Sugar
+91. しお -> salt
+92.  りょうしん -> both my parents
+93. かんたん -> easy
+94. あらいま -> Washing
+95. あ か る い -> Bright
+96. もらう -> to recieve
+97. 
 

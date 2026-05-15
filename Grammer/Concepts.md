@@ -36,3 +36,20 @@ This expression is used to ask a question. Add ですか？ after an interrogati
 These two words are both indicators of "does it exist". The key difference is howerver, います is only used for living things (People, pets, animals) and あります is ONLY used for dead/non living things. 
 
 This disticition is very important
+
+## ながら
+
+Combine two verbs by dropping the ます from a verb and attatch it to another verb -> 
+
+ききながらべんきょします。　 I listen to music WHILE studying
+
+## が used as Conjuction
+
+ちちはことし80さいですが、==げんき==です。
+ちちはことし80さいです。でも、==げんき==です。
+
+Basically its used as a conjuction piece so that the sentence flow is a lot smoother while reading.
+
+## たち Making stuff plural
+
+がくせいたちは　-> Many Students
