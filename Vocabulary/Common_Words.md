@@ -88,13 +88,13 @@
 86. しつもん -> Question
 87. ことば -> Word
 88. こまりま -> Troubled
-89. おぼえました -> Memoriezed
+89. おぼえま -> Memoriezed
 90. さとう -> Sugar
 91. しお -> salt
 92.  りょうしん -> both my parents
 93. かんたん -> easy
 94. あらいま -> Washing
-95. あ か る い -> Bright
+95. あかるい -> Bright
 96. もらう -> to recieve
 97. 
 

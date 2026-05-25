@@ -41,7 +41,7 @@ This disticition is very important
 
 Combine two verbs by dropping the ます from a verb and attatch it to another verb -> 
 
-ききながらべんきょします。　 I listen to music WHILE studying
+ききながらべんきょします。　 I listen to 2music WHILE studying
 
 ## が used as Conjuction
 
